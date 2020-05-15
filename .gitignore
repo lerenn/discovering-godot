@@ -14,3 +14,6 @@ mono_crash.*.json
 # System/tool-specific ignores
 .directory
 *~
+
+# Android specific 
+*.apk
