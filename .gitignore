@@ -17,3 +17,9 @@ mono_crash.*.json
 
 # Android specific 
 *.apk
+
+# Javascript specific
+*.pck
+
+# Linux specific
+*.x86_64
